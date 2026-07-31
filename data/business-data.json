@@ -1,0 +1,19 @@
+{
+  "isletme": {
+    "adi": "Örnek Mimarlık & Tasarım",
+    "unvan": "İç Mimarlık ve Mimari Proje Ofisi",
+    "aciklama": "Lüks konut ve ticari mekanlar için konsept tasarım ve uygulama hizmetleri.",
+    "telefon": "+90 532 000 00 00",
+    "whatsapp": "+90 532 000 00 00",
+    "eposta": "info@ornek-mimarlik.com",
+    "adres": "Kadıköy, İstanbul"
+  },
+  "analitik": {
+    "ga4_id": "G-XXXXXXXXXX",
+    "gtm_id": "GTM-XXXXXXX"
+  },
+  "hizmetler": [
+    { "baslik": "İç Mimari Tasarım", "detay": "Kişiye özel lüks iç mekan projeleri." },
+    { "baslik": "Anahtar Teslim Uygulama", "detay": "Projelendirmeden teslime tüm inşaat süreçleri." }
+  ]
+}
